@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Word Categories -->
+    <item name="numbers" type="id" />
+    <item name="family" type="id" />
+    <item name="colors" type="id" />
+    <item name="phrases" type="id" />
+</resources>
