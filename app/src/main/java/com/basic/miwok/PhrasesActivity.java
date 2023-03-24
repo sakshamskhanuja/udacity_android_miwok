@@ -35,7 +35,8 @@ public class PhrasesActivity extends AppCompatActivity {
         phrases.add(new Word(R.string.default_phrase_ten, R.string.miwok_phrase_ten));
 
         // Initializing a custom ArrayAdapter.
-        ArrayAdapter<Word> wordAdapter = new WordAdapter(this, phrases);
+        ArrayAdapter<Word> wordAdapter = new WordAdapter(this, phrases,
+                R.color.category_phrases);
 
         // Attaching wordAdapter to "word_list" ListView.
         binding.wordList.setAdapter(wordAdapter);

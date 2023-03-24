@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@id/root_view"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical"
-    android:padding="@dimen/padding_default"
+    android:layout_height="@dimen/list_item_height"
+    tools:background="@color/category_numbers"
     tools:viewBindingIgnore="true">
 
-    <!-- Miwok word TextView -->
-    <TextView
-        android:id="@id/miwok_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:text="@string/miwok_number_one" />
+    <!-- Image resource of Word -->
+    <ImageView
+        android:id="@id/image_view"
+        android:layout_width="@dimen/width_drawable"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@color/tan_background"
+        tools:ignore="contentDescription"
+        tools:src="@drawable/number_one" />
 
-    <!-- Default word TextView -->
-    <TextView
-        android:id="@id/default_text_view"
+    <!-- Default and miwok translation of Word -->
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:text="@string/default_number_one" />
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:orientation="vertical">
+
+        <!-- Miwok word TextView -->
+        <TextView
+            android:id="@id/miwok_text_view"
+            style="@style/DefaultWordStyle"
+            android:gravity="bottom"
+            android:textStyle="bold"
+            tools:text="@string/miwok_number_one" />
+
+        <!-- Default word TextView -->
+        <TextView
+            android:id="@id/default_text_view"
+            style="@style/DefaultWordStyle"
+            tools:text="@string/default_number_one" />
+    </LinearLayout>
 </LinearLayout>

@@ -9,7 +9,9 @@
     <!-- Layout - word_list.xml -->
     <item name="word_list" type="id" />
 
-    <!-- Layout - layout_item.xml -->
+    <!-- Layout - list_item.xml -->
+    <item name="root_view" type="id" />
     <item name="miwok_text_view" type="id" />
     <item name="default_text_view" type="id" />
+    <item name="image_view" type="id" />
 </resources>

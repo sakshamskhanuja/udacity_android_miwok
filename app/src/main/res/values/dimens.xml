@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Text size of Word -->
+    <dimen name="text_size_word">18sp</dimen>
+
     <!-- Padding -->
     <dimen name="padding_default">16dp</dimen>
 
     <!-- Height of each list item -->
     <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Width of drawable in "list_item.xml" -->
+    <dimen name="width_drawable">88dp</dimen>
 
     <!-- Margin -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
