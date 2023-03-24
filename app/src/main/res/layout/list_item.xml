@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_default"
+    tools:viewBindingIgnore="true">
+
+    <!-- Miwok word TextView -->
+    <TextView
+        android:id="@id/miwok_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/miwok_number_one" />
+
+    <!-- Default word TextView -->
+    <TextView
+        android:id="@id/default_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/default_number_one" />
+</LinearLayout>

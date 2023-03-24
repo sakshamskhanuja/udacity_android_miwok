@@ -13,4 +13,248 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+
+    <!-- Category numbers in the English language. -->
+
+    <!-- English - one -->
+    <string name="default_number_one">one</string>
+
+    <!-- English - two -->
+    <string name="default_number_two">two</string>
+
+    <!-- English - three -->
+    <string name="default_number_three">three</string>
+
+    <!-- English - four -->
+    <string name="default_number_four">four</string>
+
+    <!-- English - five -->
+    <string name="default_number_five">five</string>
+
+    <!-- English - six -->
+    <string name="default_number_six">six</string>
+
+    <!-- English - seven -->
+    <string name="default_number_seven">seven</string>
+
+    <!-- English - eight -->
+    <string name="default_number_eight">eight</string>
+
+    <!-- English - nine -->
+    <string name="default_number_nine">nine</string>
+
+    <!-- English - ten -->
+    <string name="default_number_ten">ten</string>
+
+    <!-- Category phrases in the English language. -->
+
+    <!-- English - Where are you going? -->
+    <string name="default_phrase_one">Where are you going?</string>
+
+    <!-- English - What is your name? -->
+    <string name="default_phrase_two">What is your name?</string>
+
+    <!-- English - My name is... -->
+    <string name="default_phrase_three">My name is…</string>
+
+    <!-- English - How are you feeling? -->
+    <string name="default_phrase_four">How are you feeling?</string>
+
+    <!-- English - I’m feeling good. -->
+    <string name="default_phrase_five">I’m feeling good.</string>
+
+    <!-- English - Are you coming? -->
+    <string name="default_phrase_six">Are you coming?</string>
+
+    <!-- English - Yes, I’m coming. -->
+    <string name="default_phrase_seven">Yes, I’m coming.</string>
+
+    <!-- English - I’m coming. -->
+    <string name="default_phrase_eight">I’m coming.</string>
+
+    <!-- English - Let’s go. -->
+    <string name="default_phrase_nine">Let’s go.</string>
+
+    <!-- English - Come here. -->
+    <string name="default_phrase_ten">Come here.</string>
+
+    <!-- Category colors in the English language. -->
+
+    <!-- English - red -->
+    <string name="default_color_one">red</string>
+
+    <!-- English - mustard yellow -->
+    <string name="default_color_two">mustard yellow</string>
+
+    <!-- English - dusty yellow -->
+    <string name="default_color_three">dusty yellow</string>
+
+    <!-- English - green -->
+    <string name="default_color_four">green</string>
+
+    <!-- English - brown -->
+    <string name="default_color_five">brown</string>
+
+    <!-- English - gray -->
+    <string name="default_color_six">gray</string>
+
+    <!-- English - black -->
+    <string name="default_color_seven">black</string>
+
+    <!-- English - white -->
+    <string name="default_color_eight">white</string>
+
+    <!-- Category family in the English language. -->
+
+    <!-- English - father -->
+    <string name="default_family_one">father</string>
+
+    <!-- English - mother -->
+    <string name="default_family_two">mother</string>
+
+    <!-- English - son -->
+    <string name="default_family_three">son</string>
+
+    <!-- English - daughter -->
+    <string name="default_family_four">daughter</string>
+
+    <!-- English - older brother -->
+    <string name="default_family_five">older brother</string>
+
+    <!-- English - younger brother -->
+    <string name="default_family_six">younger brother</string>
+
+    <!-- English - older sister -->
+    <string name="default_family_seven">older sister</string>
+
+    <!-- English - younger sister -->
+    <string name="default_family_eight">younger sister</string>
+
+    <!-- English - grandmother -->
+    <string name="default_family_nine">grandmother</string>
+
+    <!-- English - grandfather -->
+    <string name="default_family_ten">grandfather</string>
+
+    <!-- Category numbers in the Miwok language. -->
+
+    <!-- Miwok - one -->
+    <string name="miwok_number_one" translatable="false">lutti</string>
+
+    <!-- Miwok - two -->
+    <string name="miwok_number_two" translatable="false">otiiko</string>
+
+    <!-- Miwok - three -->
+    <string name="miwok_number_three" translatable="false">tolookosu</string>
+
+    <!-- Miwok - four -->
+    <string name="miwok_number_four" translatable="false">oyyisa</string>
+
+    <!-- Miwok - five -->
+    <string name="miwok_number_five" translatable="false">massokka</string>
+
+    <!-- Miwok - six -->
+    <string name="miwok_number_six" translatable="false">temmokka</string>
+
+    <!-- Miwok - seven -->
+    <string name="miwok_number_seven" translatable="false">kenekaku</string>
+
+    <!-- Miwok - eight -->
+    <string name="miwok_number_eight" translatable="false">kawinta</string>
+
+    <!-- Miwok - nine -->
+    <string name="miwok_number_nine" translatable="false">wo’e</string>
+
+    <!-- Miwok - ten -->
+    <string name="miwok_number_ten" translatable="false">na’aacha</string>
+
+    <!-- Category phrases in the Miwok language. -->
+
+    <!-- Miwok - Where are you going? -->
+    <string name="miwok_phrase_one" translatable="false">minto wuksus</string>
+
+    <!-- Miwok - What is your name? -->
+    <string name="miwok_phrase_two" translatable="false">tinnә oyaase\'nә</string>
+
+    <!-- Miwok - My name is... -->
+    <string name="miwok_phrase_three" translatable="false">oyaaset…</string>
+
+    <!-- Miwok - How are you feeling? -->
+    <string name="miwok_phrase_four" translatable="false">michәksәs?</string>
+
+    <!-- Miwok - I’m feeling good. -->
+    <string name="miwok_phrase_five" translatable="false">kuchi achit</string>
+
+    <!-- Miwok - Are you coming? -->
+    <string name="miwok_phrase_six" translatable="false">әәnәs\'aa?</string>
+
+    <!-- Miwok - Yes, I’m coming. -->
+    <string name="miwok_phrase_seven" translatable="false">hәә’ әәnәm</string>
+
+    <!-- Miwok - I’m coming. -->
+    <string name="miwok_phrase_eight" translatable="false">әәnәm</string>
+
+    <!-- Miwok - Let’s go. -->
+    <string name="miwok_phrase_nine" translatable="false">yoowutis</string>
+
+    <!-- Miwok - Come here. -->
+    <string name="miwok_phrase_ten" translatable="false">әnni\'nem</string>
+
+    <!-- Category colors in the Miwok language. -->
+
+    <!-- Miwok - red -->
+    <string name="miwok_color_one" translatable="false">weṭeṭṭi</string>
+
+    <!-- Miwok - mustard yellow -->
+    <string name="miwok_color_two" translatable="false">chiwiiṭә</string>
+
+    <!-- Miwok - dusty yellow -->
+    <string name="miwok_color_three" translatable="false">ṭopiisә</string>
+
+    <!-- Miwok - green -->
+    <string name="miwok_color_four" translatable="false">chokokki</string>
+
+    <!-- Miwok - brown -->
+    <string name="miwok_color_five" translatable="false">ṭakaakki</string>
+
+    <!-- Miwok - gray -->
+    <string name="miwok_color_six" translatable="false">ṭopoppi</string>
+
+    <!-- Miwok - black -->
+    <string name="miwok_color_seven" translatable="false">kululli</string>
+
+    <!-- Miwok - white -->
+    <string name="miwok_color_eight" translatable="false">kelelli</string>
+
+    <!-- Category family in the Miwok language. -->
+
+    <!-- Miwok - father -->
+    <string name="miwok_family_one" translatable="false">әpә</string>
+
+    <!-- Miwok - mother -->
+    <string name="miwok_family_two" translatable="false">әṭa</string>
+
+    <!-- Miwok - son -->
+    <string name="miwok_family_three" translatable="false">angsi</string>
+
+    <!-- Miwok - daughter -->
+    <string name="miwok_family_four" translatable="false">tune</string>
+
+    <!-- Miwok - older brother -->
+    <string name="miwok_family_five" translatable="false">taachi</string>
+
+    <!-- Miwok - younger brother -->
+    <string name="miwok_family_six" translatable="false">chalitti</string>
+
+    <!-- Miwok - older sister -->
+    <string name="miwok_family_seven" translatable="false">teṭe</string>
+
+    <!-- Miwok - younger sister -->
+    <string name="miwok_family_eight" translatable="false">kolliti</string>
+
+    <!-- Miwok - grandmother -->
+    <string name="miwok_family_nine" translatable="false">ama</string>
+
+    <!-- Miwok - grandfather -->
+    <string name="miwok_family_ten" translatable="false">paapa</string>
 </resources>

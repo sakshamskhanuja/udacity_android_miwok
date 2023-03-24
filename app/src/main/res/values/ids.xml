@@ -5,4 +5,11 @@
     <item name="family" type="id" />
     <item name="colors" type="id" />
     <item name="phrases" type="id" />
+
+    <!-- Layout - word_list.xml -->
+    <item name="word_list" type="id" />
+
+    <!-- Layout - layout_item.xml -->
+    <item name="miwok_text_view" type="id" />
+    <item name="default_text_view" type="id" />
 </resources>
